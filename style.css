@@ -5,6 +5,12 @@
   font-weight: normal;
   src: local('font/Optima'), url('font/OPTIMA.woff') format('woff');
 }
+@font-face {
+  font-family: 'UllikummiA';
+  font-style: normal;
+  font-weight: normal;
+  src: local('font/UllikummiA'), url('font/UllikummiA.ttf') format('ttf');
+}
 html {
   line-height: 1.5;
   font-family: Optima, sans-serif;
@@ -23,4 +29,9 @@ body {
   word-wrap: break-word;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
+}
+
+cunei {
+  line-height: 2;
+  font-family: 'UllikummiA'
 }
