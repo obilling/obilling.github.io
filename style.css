@@ -11,6 +11,12 @@
   font-weight: normal;
   src: local('font/UllikummiA'), url('font/UllikummiA.ttf') format('ttf');
 }
+@font-face {
+  font-family: 'Lycian';
+  font-style: normal;
+  font-weight: normal;
+  src: local('font/NotoSansLycian-Regular'), url('font/NotoSansLycian-Regular.ttf') format('ttf');
+}
 html {
   line-height: 1.5;
   font-family: Optima, sans-serif;
@@ -33,7 +39,12 @@ body {
 cunei {
   line-height: 1.5;
   font-family: 'UllikummiA';
-  font-size: 70px;
+  font-size: 50px;
+}
+lyc {
+  line-height: 1.5;
+  font-family: 'UllikummiA';
+  font-size: 50px;
 }
 a:link {
   color: #fcf803;
