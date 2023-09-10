@@ -39,12 +39,12 @@ body {
 cunei {
   line-height: 1.5;
   font-family: 'UllikummiA';
-  font-size: 50px;
+  font-size: 30px;
 }
 lyc {
   line-height: 1.5;
   font-family: 'Lycian';
-  font-size: 50px;
+  font-size: 100px;
 }
 a:link {
   color: #fcf803;
