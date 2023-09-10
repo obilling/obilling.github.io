@@ -30,9 +30,18 @@ body {
   text-rendering: optimizeLegibility;
   font-kerning: normal;
 }
-
 cunei {
   line-height: 2;
   font-family: 'UllikummiA';
   font-size: 70px;
+}
+a:link {
+  color: #fcf803;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #fcc203;
+  background-color: transparent;
+  text-decoration: none;
 }
