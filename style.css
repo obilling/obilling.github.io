@@ -1,6 +1,6 @@
 
 @font-face {
-  font-family: 'Optima';
+  font-family: 'Brill';
   font-style: normal;
   font-weight: normal;
   src: local('font/Optima'), url('font/OPTIMA.woff') format('woff');
@@ -19,7 +19,7 @@
 }
 html {
   line-height: 1.5;
-  font-family: Optima, sans-serif;
+  font-family: Brill, sans-serif;
   font-size: 20px;
   color: #ffffff;
   background-color: #1a1a1a;
