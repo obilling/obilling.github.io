@@ -3,7 +3,7 @@
   font-family: 'Brill';
   font-style: normal;
   font-weight: normal;
-  src: local('font/Optima'), url('font/OPTIMA.woff') format('woff');
+  src: local('font/Brill'), url('font/Brill Roman 2.06 051.ttff') format('ttf');
 }
 @font-face {
   font-family: 'UllikummiA';
